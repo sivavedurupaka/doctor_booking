@@ -1,0 +1,19 @@
+{
+    "doctors": [
+      {
+        "id": 1,
+        "name": "Vedurupaka Ganesh",
+        "specialty": "Blood Test Specialist",
+        "treatableDiseases": ["Anemia", "Diabetes", "Thyroid Issues"],
+        "image": "assets/images/doctor1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Manoj Kumar",
+        "specialty": "Heart Specialist",
+        "treatableDiseases": ["Heart Attack", "High BP", "Chest Pain"],
+        "image": "assets/images/doctor2.jpg"
+      }
+    ]
+  }
+  

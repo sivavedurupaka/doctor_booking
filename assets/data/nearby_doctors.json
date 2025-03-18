@@ -1,0 +1,30 @@
+{
+    "doctors": [
+      {
+        "name": "Dr. Arjun Mehta",
+        "specialty": "Cardiologist",
+        "location": "Delhi, India"
+      },
+      {
+        "name": "Dr. Priya Sharma",
+        "specialty": "Heart Specialist",
+        "location": "Mumbai, India"
+      },
+      {
+        "name": "Dr. Ravi Kapoor",
+        "specialty": "Interventional Cardiologist",
+        "location": "Hyderabad, India"
+      },
+      {
+        "name": "Dr. Manoj Kumar",
+        "specialty": "Heart Specialist",
+        "location": "Bangalore, India"
+      },
+      {
+        "name": "Dr. Sanjay Reddy",
+        "specialty": "Cardiothoracic Surgeon",
+        "location": "Chennai, India"
+      }
+    ]
+  }
+  

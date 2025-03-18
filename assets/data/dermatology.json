@@ -1,0 +1,104 @@
+{
+  "doctors": [
+    {
+      "id": "D1",
+      "name": "Dr. Sunita Sharma",
+      "specialty": "Dermatologist",
+      "location": "New Delhi, India",
+      "profileImageUrl": "assets/images/sunita_sharma.jpg",
+      "category": "Dermatology",
+      "hospital": "Apollo Hospital",
+      "contact": "+91 9876543210"
+    },
+    {
+      "id": "D2",
+      "name": "Dr. Rajesh Mehta",
+      "specialty": "Skin Specialist",
+      "location": "Mumbai, India",
+      "profileImageUrl": "assets/images/rajesh_mehta.jpg",
+      "category": "Dermatology",
+      "hospital": "Fortis Hospital",
+      "contact": "+91 8765432109"
+    },
+    {
+      "id": "D3",
+      "name": "Dr. Priya Kapoor",
+      "specialty": "Cosmetic Dermatologist",
+      "location": "Bangalore, India",
+      "profileImageUrl": "assets/images/priya_kapoor.jpg",
+      "category": "Dermatology",
+      "hospital": "Manipal Hospital",
+      "contact": "+91 7654321098"
+    },
+    {
+      "id": "D4",
+      "name": "Dr. Arvind Rao",
+      "specialty": "Dermatologist",
+      "location": "Hyderabad, India",
+      "profileImageUrl": "assets/images/arvind_rao.jpg",
+      "category": "Dermatology",
+      "hospital": "Yashoda Hospital",
+      "contact": "+91 8543210987"
+    },
+    {
+      "id": "D5",
+      "name": "Dr. Neha Agarwal",
+      "specialty": "Pediatric Dermatologist",
+      "location": "Chennai, India",
+      "profileImageUrl": "assets/images/neha_agarwal.jpg",
+      "category": "Dermatology",
+      "hospital": "Global Hospitals",
+      "contact": "+91 7432109876"
+    },
+    {
+      "id": "D6",
+      "name": "Dr. Vishal Reddy",
+      "specialty": "Trichologist",
+      "location": "Pune, India",
+      "profileImageUrl": "assets/images/vishal_reddy.jpg",
+      "category": "Dermatology",
+      "hospital": "Sahyadri Hospital",
+      "contact": "+91 6321098765"
+    },
+    {
+      "id": "D7",
+      "name": "Dr. Sneha Iyer",
+      "specialty": "Cosmetic Dermatologist",
+      "location": "Kolkata, India",
+      "profileImageUrl": "assets/images/sneha_iyer.jpg",
+      "category": "Dermatology",
+      "hospital": "AMRI Hospital",
+      "contact": "+91 5210987654"
+    },
+    {
+      "id": "D8",
+      "name": "Dr. Rohan Khanna",
+      "specialty": "Aesthetic Dermatologist",
+      "location": "Ahmedabad, India",
+      "profileImageUrl": "assets/images/rohan_khanna.jpg",
+      "category": "Dermatology",
+      "hospital": "CIMS Hospital",
+      "contact": "+91 4109876543"
+    },
+    {
+      "id": "D9",
+      "name": "Dr. Kavita Joshi",
+      "specialty": "Dermatopathologist",
+      "location": "Jaipur, India",
+      "profileImageUrl": "assets/images/kavita_joshi.jpg",
+      "category": "Dermatology",
+      "hospital": "SMS Hospital",
+      "contact": "+91 3098765432"
+    },
+    {
+      "id": "D10",
+      "name": "Dr. Anil Saxena",
+      "specialty": "Clinical Dermatologist",
+      "location": "Lucknow, India",
+      "profileImageUrl": "assets/images/anil_saxena.jpg",
+      "category": "Dermatology",
+      "hospital": "King George's Medical University",
+      "contact": "+91 2987654321"
+    }
+  ]
+}

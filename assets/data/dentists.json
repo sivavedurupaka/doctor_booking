@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Dr. Ramesh Kumar",
+    "specialty": "Dentist",
+    "imageUrl": "https://example.com/images/dr_ramesh.jpg",
+    "location": "Kakinada, Andhra Pradesh",
+    "rating": 4.7,
+    "experience": 10,
+    "patientCount": 1500,
+    "bio": "Dr. Ramesh Kumar is a highly experienced dentist with over 10 years of expertise in cosmetic and general dentistry."
+  },
+  {
+    "name": "Dr. Anjali Sharma",
+    "specialty": "Orthodontist",
+    "imageUrl": "https://example.com/images/dr_anjali.jpg",
+    "location": "Kakinada, Andhra Pradesh",
+    "rating": 4.8,
+    "experience": 8,
+    "patientCount": 1300,
+    "bio": "Dr. Anjali Sharma specializes in orthodontics, helping patients achieve perfect smiles with modern techniques."
+  },
+  {
+    "name": "Dr. Rajesh Patel",
+    "specialty": "Pediatric Dentist",
+    "imageUrl": "https://example.com/images/dr_rajesh.jpg",
+    "location": "Kakinada, Andhra Pradesh",
+    "rating": 4.5,
+    "experience": 12,
+    "patientCount": 1800,
+    "bio": "Dr. Rajesh Patel is a pediatric dentist with 12 years of experience in treating children's dental problems."
+  },
+  {
+    "name": "Dr. Sneha Verma",
+    "specialty": "Endodontist",
+    "imageUrl": "https://example.com/images/dr_sneha.jpg",
+    "location": "Hyderabad, Telangana",
+    "rating": 4.6,
+    "experience": 9,
+    "patientCount": 1400,
+    "bio": "Dr. Sneha Verma is a specialist in root canal treatments and dental restorations."
+  },
+  {
+    "name": "Dr. Arvind Rao",
+    "specialty": "Periodontist",
+    "imageUrl": "https://example.com/images/dr_arvind.jpg",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "rating": 4.9,
+    "experience": 15,
+    "patientCount": 2000,
+    "bio": "Dr. Arvind Rao is an expert in treating gum diseases and performing dental implants."
+  },
+  {
+    "name": "Dr. Priya Menon",
+    "specialty": "Prosthodontist",
+    "imageUrl": "https://example.com/images/dr_priya.jpg",
+    "location": "Chennai, Tamil Nadu",
+    "rating": 4.7,
+    "experience": 11,
+    "patientCount": 1700,
+    "bio": "Dr. Priya Menon specializes in dental prosthetics, including dentures, bridges, and crowns."
+  },
+  {
+    "name": "Dr. Rahul Khanna",
+    "specialty": "Oral Surgeon",
+    "imageUrl": "https://example.com/images/dr_rahul.jpg",
+    "location": "Bangalore, Karnataka",
+    "rating": 4.8,
+    "experience": 13,
+    "patientCount": 1900,
+    "bio": "Dr. Rahul Khanna is a skilled oral surgeon specializing in wisdom tooth extractions and jaw surgeries."
+  },
+  {
+    "name": "Dr. Neha Gupta",
+    "specialty": "Cosmetic Dentist",
+    "imageUrl": "https://example.com/images/dr_neha.jpg",
+    "location": "Mumbai, Maharashtra",
+    "rating": 4.9,
+    "experience": 7,
+    "patientCount": 1200,
+    "bio": "Dr. Neha Gupta is known for her expertise in smile makeovers and teeth whitening procedures."
+  },
+  {
+    "name": "Dr. Vinod Mishra",
+    "specialty": "General Dentist",
+    "imageUrl": "https://example.com/images/dr_vinod.jpg",
+    "location": "Delhi, India",
+    "rating": 4.6,
+    "experience": 14,
+    "patientCount": 2100,
+    "bio": "Dr. Vinod Mishra has extensive experience in general dental care and preventive treatments."
+  },
+  {
+    "name": "Dr. Kavita Iyer",
+    "specialty": "Pediatric Dentist",
+    "imageUrl": "https://example.com/images/dr_kavita.jpg",
+    "location": "Pune, Maharashtra",
+    "rating": 4.7,
+    "experience": 10,
+    "patientCount": 1600,
+    "bio": "Dr. Kavita Iyer is a pediatric dentist specializing in children's dental health and preventive care."
+  },
+  {
+    "name": "Dr. Harish Nanda",
+    "specialty": "Orthodontist",
+    "imageUrl": "https://example.com/images/dr_harish.jpg",
+    "location": "Coimbatore, Tamil Nadu",
+    "rating": 4.8,
+    "experience": 12,
+    "patientCount": 1800,
+    "bio": "Dr. Harish Nanda specializes in braces and aligners for correcting dental alignment issues."
+  },
+  {
+    "name": "Dr. Swati Joshi",
+    "specialty": "Dental Surgeon",
+    "imageUrl": "https://example.com/images/dr_swati.jpg",
+    "location": "Lucknow, Uttar Pradesh",
+    "rating": 4.7,
+    "experience": 9,
+    "patientCount": 1400,
+    "bio": "Dr. Swati Joshi is a skilled dental surgeon specializing in extractions and minor oral surgeries."
+  }
+]
