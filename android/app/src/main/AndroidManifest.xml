@@ -1,0 +1,66 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- ✅ Permissions Required -->
+    <uses-permission android:name="android.permission.INTERNET"/> <!-- Internet Access -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/> <!-- Check Network -->
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/> <!-- OTP Verification -->
+    <uses-permission android:name="android.permission.READ_SMS"/> <!-- Read SMS (For Auto OTP) -->
+    <uses-permission android:name="android.permission.SEND_SMS"/> <!-- Send SMS (If Needed) -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+      
+
+    <application
+        android:enableOnBackInvokedCallback="true"
+        android:label="doctor_booking"
+        android:name="${applicationName}"
+        android:icon="@mipmap/ic_launcher"
+        android:usesCleartextTraffic="true">  <!-- 🔹 Allow Cleartext Traffic for APIs -->
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:taskAffinity=""
+            android:theme="@style/LaunchTheme"
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+            android:hardwareAccelerated="true"
+            android:windowSoftInputMode="adjustResize">
+
+            <!-- Specifies an Android theme to apply to this Activity as soon as
+                 the Android process has started. This theme is visible to the user
+                 while the Flutter UI initializes. -->
+            <meta-data
+                android:name="io.flutter.embedding.android.NormalTheme"
+                android:resource="@style/NormalTheme"/>
+            
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <!-- ✅ Fix for Firebase Authentication Recaptcha Issue -->
+        <activity
+            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+            android:exported="true"
+            tools:replace="android:exported" />
+
+        <!-- 🔹 Required for Flutter Plugin Registrations -->
+        <meta-data
+            android:name="flutterEmbedding"
+            android:value="2"/>
+
+    </application>
+
+    <!-- ✅ Required to query activities that can process text -->
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.PROCESS_TEXT"/>
+            <data android:mimeType="text/plain"/>
+        </intent>
+    </queries>
+
+</manifest>

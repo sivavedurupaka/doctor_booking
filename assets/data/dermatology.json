@@ -1,0 +1,224 @@
+{
+  "doctors": [
+    {
+      "id": "D1",
+      "name": "Dr. Sunita Sharma",
+      "specialty": "Dermatologist",
+      "experience": "15 years",
+      "location": "New Delhi, India",
+      "profileImageUrl": "assets/images/sunita_sharma.jpg",
+      "category": "Dermatology",
+      "hospital": "Apollo Hospital",
+      "contact": "+91 9876543210"
+    },
+    {
+      "id": "D2",
+      "name": "Dr. Rajesh Mehta",
+      "specialty": "Skin Specialist",
+      "experience": "12 years",
+      "location": "Mumbai, India",
+      "profileImageUrl": "assets/images/rajesh_mehta.jpg",
+      "category": "Dermatology",
+      "hospital": "Fortis Hospital",
+      "contact": "+91 8765432109"
+    },
+    {
+      "id": "D3",
+      "name": "Dr. Priya Kapoor",
+      "specialty": "Cosmetic Dermatologist",
+      "experience": "10 years",
+      "location": "Bangalore, India",
+      "profileImageUrl": "assets/images/priya_kapoor.jpg",
+      "category": "Dermatology",
+      "hospital": "Manipal Hospital",
+      "contact": "+91 7654321098"
+    },
+    {
+      "id": "D4",
+      "name": "Dr. Arvind Rao",
+      "specialty": "Dermatologist",
+      "experience": "14 years",
+      "location": "Hyderabad, India",
+      "profileImageUrl": "assets/images/arvind_rao.jpg",
+      "category": "Dermatology",
+      "hospital": "Yashoda Hospital",
+      "contact": "+91 8543210987"
+    },
+    {
+      "id": "D5",
+      "name": "Dr. Neha Agarwal",
+      "specialty": "Pediatric Dermatologist",
+      "experience": "9 years",
+      "location": "Chennai, India",
+      "profileImageUrl": "assets/images/neha_agarwal.jpg",
+      "category": "Dermatology",
+      "hospital": "Global Hospitals",
+      "contact": "+91 7432109876"
+    },
+    {
+      "id": "D6",
+      "name": "Dr. Vishal Reddy",
+      "specialty": "Trichologist",
+      "experience": "11 years",
+      "location": "Pune, India",
+      "profileImageUrl": "assets/images/vishal_reddy.jpg",
+      "category": "Dermatology",
+      "hospital": "Sahyadri Hospital",
+      "contact": "+91 6321098765"
+    },
+    {
+      "id": "D7",
+      "name": "Dr. Sneha Iyer",
+      "specialty": "Cosmetic Dermatologist",
+      "experience": "13 years",
+      "location": "Kolkata, India",
+      "profileImageUrl": "assets/images/sneha_iyer.jpg",
+      "category": "Dermatology",
+      "hospital": "AMRI Hospital",
+      "contact": "+91 5210987654"
+    },
+    {
+      "id": "D8",
+      "name": "Dr. Rohan Khanna",
+      "specialty": "Aesthetic Dermatologist",
+      "experience": "8 years",
+      "location": "Ahmedabad, India",
+      "profileImageUrl": "assets/images/rohan_khanna.jpg",
+      "category": "Dermatology",
+      "hospital": "CIMS Hospital",
+      "contact": "+91 4109876543"
+    },
+    {
+      "id": "D9",
+      "name": "Dr. Kavita Joshi",
+      "specialty": "Dermatopathologist",
+      "experience": "16 years",
+      "location": "Jaipur, India",
+      "profileImageUrl": "assets/images/kavita_joshi.jpg",
+      "category": "Dermatology",
+      "hospital": "SMS Hospital",
+      "contact": "+91 3098765432"
+    },
+    {
+      "id": "D10",
+      "name": "Dr. Anil Saxena",
+      "specialty": "Clinical Dermatologist",
+      "experience": "18 years",
+      "location": "Lucknow, India",
+      "profileImageUrl": "assets/images/anil_saxena.jpg",
+      "category": "Dermatology",
+      "hospital": "King George's Medical University",
+      "contact": "+91 2987654321"
+    },
+    {
+      "id": "D11",
+      "name": "Dr. Pooja Malhotra",
+      "specialty": "General Physician",
+      "experience": "7 years",
+      "location": "Nagpur, India",
+      "profileImageUrl": "assets/images/pooja_malhotra.jpg",
+      "category": "General Medicine",
+      "hospital": "Wockhardt Hospital",
+      "contact": "+91 2876543210"
+    },
+    {
+      "id": "D12",
+      "name": "Dr. Amit Choudhary",
+      "specialty": "Cardiologist",
+      "experience": "20 years",
+      "location": "Patna, India",
+      "profileImageUrl": "assets/images/amit_choudhary.jpg",
+      "category": "Cardiology",
+      "hospital": "AIIMS Patna",
+      "contact": "+91 2765432109"
+    },
+    {
+      "id": "D13",
+      "name": "Dr. Ritu Verma",
+      "specialty": "Neurologist",
+      "experience": "17 years",
+      "location": "Bhopal, India",
+      "profileImageUrl": "assets/images/ritu_verma.jpg",
+      "category": "Neurology",
+      "hospital": "Narayana Hospital",
+      "contact": "+91 2654321098"
+    },
+    {
+      "id": "D14",
+      "name": "Dr. Manish Gupta",
+      "specialty": "Orthopedic Surgeon",
+      "experience": "22 years",
+      "location": "Indore, India",
+      "profileImageUrl": "assets/images/manish_gupta.jpg",
+      "category": "Orthopedics",
+      "hospital": "Medanta Hospital",
+      "contact": "+91 2543210987"
+    },
+    {
+      "id": "D15",
+      "name": "Dr. Sanjana Reddy",
+      "specialty": "Gynecologist",
+      "experience": "14 years",
+      "location": "Visakhapatnam, India",
+      "profileImageUrl": "assets/images/sanjana_reddy.jpg",
+      "category": "Gynecology",
+      "hospital": "Seven Hills Hospital",
+      "contact": "+91 2432109876"
+    },
+    {
+      "id": "D16",
+      "name": "Dr. Harish Patel",
+      "specialty": "ENT Specialist",
+      "experience": "9 years",
+      "location": "Surat, India",
+      "profileImageUrl": "assets/images/harish_patel.jpg",
+      "category": "ENT",
+      "hospital": "Sterling Hospital",
+      "contact": "+91 2321098765"
+    },
+    {
+      "id": "D17",
+      "name": "Dr. Nisha Singh",
+      "specialty": "Pediatrician",
+      "experience": "11 years",
+      "location": "Thane, India",
+      "profileImageUrl": "assets/images/nisha_singh.jpg",
+      "category": "Pediatrics",
+      "hospital": "Jupiter Hospital",
+      "contact": "+91 2210987654"
+    },
+    {
+      "id": "D18",
+      "name": "Dr. Aditya Sharma",
+      "specialty": "Nephrologist",
+      "experience": "19 years",
+      "location": "Nashik, India",
+      "profileImageUrl": "assets/images/aditya_sharma.jpg",
+      "category": "Nephrology",
+      "hospital": "Apollo Hospital",
+      "contact": "+91 2109876543"
+    },
+    {
+      "id": "D19",
+      "name": "Dr. Snehal Kaur",
+      "specialty": "Psychiatrist",
+      "experience": "13 years",
+      "location": "Meerut, India",
+      "profileImageUrl": "assets/images/snehal_kaur.jpg",
+      "category": "Psychiatry",
+      "hospital": "Fortis Mental Health Center",
+      "contact": "+91 2098765432"
+    },
+    {
+      "id": "D20",
+      "name": "Dr. Vikas Sharma",
+      "specialty": "Gastroenterologist",
+      "experience": "21 years",
+      "location": "Vijayawada, India",
+      "profileImageUrl": "assets/images/vikas_sharma.jpg",
+      "category": "Gastroenterology",
+      "hospital": "Manipal Hospital",
+      "contact": "+91 1987654321"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "doctors": [
+    {
+      "id": "C1",
+      "name": "Dr. Arjun Mehta",
+      "specialty": "Cardiologist",
+      "location": "Delhi, India",
+      "experience": "12 years",
+      "profileImageUrl": "assets/images/doctor1.png",
+      "category": "Cardiology",
+      "hospital": "AIIMS Hospital",
+      "contact": "+91 9999123456"
+    },
+    {
+      "id": "C2",
+      "name": "Dr. Priya Sharma",
+      "specialty": "Heart Specialist",
+      "location": "Mumbai, India",
+      "experience": "10 years",
+      "profileImageUrl": "assets/images/doctor2.png",
+      "category": "Cardiology",
+      "hospital": "Fortis Hospital",
+      "contact": "+91 8888234567"
+    },
+    {
+      "id": "C3",
+      "name": "Dr. Ravi Kapoor",
+      "specialty": "Interventional Cardiologist",
+      "location": "Hyderabad, India",
+      "experience": "15 years",
+      "profileImageUrl": "assets/images/doctor3.png",
+      "category": "Cardiology",
+      "hospital": "Apollo Hospital",
+      "contact": "+91 7777345678"
+    },
+    {
+      "id": "C4",
+      "name": "Dr. Sanjay Reddy",
+      "specialty": "Cardiothoracic Surgeon",
+      "location": "Chennai, India",
+      "experience": "20 years",
+      "profileImageUrl": "assets/images/doctor4.png",
+      "category": "Cardiology",
+      "hospital": "Global Hospitals",
+      "contact": "+91 7777554321"
+    },
+    {
+      "id": "C5",
+      "name": "Dr. Meena Rajput",
+      "specialty": "Pediatric Cardiologist",
+      "location": "Pune, India",
+      "experience": "14 years",
+      "profileImageUrl": "assets/images/doctor5.png",
+      "category": "Cardiology",
+      "hospital": "Deenanath Mangeshkar Hospital",
+      "contact": "+91 6666456789"
+    },
+    {
+      "id": "C6",
+      "name": "Dr. Rajesh Khanna",
+      "specialty": "Electrophysiologist",
+      "location": "Kolkata, India",
+      "experience": "11 years",
+      "profileImageUrl": "assets/images/doctor6.png",
+      "category": "Cardiology",
+      "hospital": "AMRI Hospital",
+      "contact": "+91 5555987654"
+    },
+    {
+      "id": "C7",
+      "name": "Dr. Nitin Agarwal",
+      "specialty": "Preventive Cardiologist",
+      "location": "Jaipur, India",
+      "experience": "16 years",
+      "profileImageUrl": "assets/images/doctor7.png",
+      "category": "Cardiology",
+      "hospital": "SMS Hospital",
+      "contact": "+91 9999876543"
+    },
+    {
+      "id": "C8",
+      "name": "Dr. Sneha Nair",
+      "specialty": "Cardiac Imaging Specialist",
+      "location": "Ahmedabad, India",
+      "experience": "9 years",
+      "profileImageUrl": "assets/images/doctor8.png",
+      "category": "Cardiology",
+      "hospital": "Zydus Hospital",
+      "contact": "+91 9876123456"
+    },
+    {
+      "id": "C9",
+      "name": "Dr. Vikram Sinha",
+      "specialty": "Heart Failure Specialist",
+      "location": "Chandigarh, India",
+      "experience": "17 years",
+      "profileImageUrl": "assets/images/doctor9.png",
+      "category": "Cardiology",
+      "hospital": "PGI Hospital",
+      "contact": "+91 9876543210"
+    },
+    {
+      "id": "C10",
+      "name": "Dr. Anjali Bhat",
+      "specialty": "Cardiac Surgeon",
+      "location": "Lucknow, India",
+      "experience": "21 years",
+      "profileImageUrl": "assets/images/doctor10.png",
+      "category": "Cardiology",
+      "hospital": "Medanta Hospital",
+      "contact": "+91 9999123412"
+    },
+    {
+      "id": "C11",
+      "name": "Dr. Harish Gupta",
+      "specialty": "Interventional Cardiologist",
+      "location": "Bhopal, India",
+      "experience": "12 years",
+      "profileImageUrl": "assets/images/doctor11.png",
+      "category": "Cardiology",
+      "hospital": "Bansal Hospital",
+      "contact": "+91 9876567890"
+    },
+    {
+      "id": "C12",
+      "name": "Dr. Pooja Desai",
+      "specialty": "Cardiac Rehabilitation Specialist",
+      "location": "Visakhapatnam, India",
+      "experience": "14 years",
+      "profileImageUrl": "assets/images/doctor12.png",
+      "category": "Cardiology",
+      "hospital": "SevenHills Hospital",
+      "contact": "+91 7654321098"
+    },
+    {
+      "id": "C13",
+      "name": "Dr. Anupam Bose",
+      "specialty": "Senior Cardiologist",
+      "location": "Nagpur, India",
+      "experience": "19 years",
+      "profileImageUrl": "assets/images/doctor13.png",
+      "category": "Cardiology",
+      "hospital": "Wockhardt Hospital",
+      "contact": "+91 7788996655"
+    },
+    {
+      "id": "C14",
+      "name": "Dr. Kavita Reddy",
+      "specialty": "Cardiac Electrophysiologist",
+      "location": "Coimbatore, India",
+      "experience": "13 years",
+      "profileImageUrl": "assets/images/doctor14.png",
+      "category": "Cardiology",
+      "hospital": "KG Hospital",
+      "contact": "+91 8866123456"
+    },
+    {
+      "id": "C15",
+      "name": "Dr. Rajat Verma",
+      "specialty": "Hypertension Specialist",
+      "location": "Indore, India",
+      "experience": "10 years",
+      "profileImageUrl": "assets/images/doctor15.png",
+      "category": "Cardiology",
+      "hospital": "CHL Hospital",
+      "contact": "+91 8877123456"
+    },
+    {
+      "id": "C16",
+      "name": "Dr. Snehal Patil",
+      "specialty": "General Cardiologist",
+      "location": "Guwahati, India",
+      "experience": "11 years",
+      "profileImageUrl": "assets/images/doctor16.png",
+      "category": "Cardiology",
+      "hospital": "Hayat Hospital",
+      "contact": "+91 7766123456"
+    },
+    {
+      "id": "C17",
+      "name": "Dr. Abhishek Saxena",
+      "specialty": "Cardiac Imaging Specialist",
+      "location": "Surat, India",
+      "experience": "8 years",
+      "profileImageUrl": "assets/images/doctor17.png",
+      "category": "Cardiology",
+      "hospital": "Sunshine Hospital",
+      "contact": "+91 7666123456"
+    },
+    {
+      "id": "C18",
+      "name": "Dr. Sangeeta Menon",
+      "specialty": "Congenital Heart Specialist",
+      "location": "Bhubaneswar, India",
+      "experience": "14 years",
+      "profileImageUrl": "assets/images/doctor18.png",
+      "category": "Cardiology",
+      "hospital": "Apollo Hospital",
+      "contact": "+91 7556123456"
+    },
+    {
+      "id": "C19",
+      "name": "Dr. Parthiban Iyer",
+      "specialty": "Pediatric Cardiologist",
+      "location": "Trivandrum, India",
+      "experience": "16 years",
+      "profileImageUrl": "assets/images/doctor19.png",
+      "category": "Cardiology",
+      "hospital": "KIMS Hospital",
+      "contact": "+91 7446123456"
+    },
+    {
+      "id": "C20",
+      "name": "Dr. Ramesh Choudhary",
+      "specialty": "Heart Transplant Specialist",
+      "location": "Patna, India",
+      "experience": "18 years",
+      "profileImageUrl": "assets/images/doctor20.png",
+      "category": "Cardiology",
+      "hospital": "Paras Hospital",
+      "contact": "+91 7336123456"
+    }
+  ]
+}

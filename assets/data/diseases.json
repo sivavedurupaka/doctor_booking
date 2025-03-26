@@ -1,0 +1,157 @@
+{
+    "fever": {
+      "medicine": "Paracetamol (500mg)",
+      "dosage": "Take 1 tablet every 6 hours",
+      "cost": "₹20 per strip (10 tablets)",
+      "duration": "3-5 days",
+      "care": "Drink plenty of fluids, take rest, and avoid cold foods."
+    },
+    "cold": {
+      "medicine": "Cetirizine (10mg)",
+      "dosage": "Take 1 tablet at night",
+      "cost": "₹30 per strip (10 tablets)",
+      "duration": "3-5 days",
+      "care": "Drink warm fluids, take steam inhalation, and avoid cold drinks."
+    },
+    "cough": {
+      "medicine": "Benadryl syrup (10ml)",
+      "dosage": "Take twice daily",
+      "cost": "₹80 per bottle",
+      "duration": "5-7 days",
+      "care": "Drink warm water, avoid cold beverages, and rest your throat."
+    },
+    "headache": {
+      "medicine": "Ibuprofen (400mg)",
+      "dosage": "Take 1 tablet when needed",
+      "cost": "₹40 per strip (10 tablets)",
+      "duration": "1-2 days",
+      "care": "Avoid screen time, rest in a dark room, and drink enough water."
+    },
+    "stomach pain": {
+      "medicine": "Pantoprazole (40mg)",
+      "dosage": "Take 1 tablet before breakfast",
+      "cost": "₹50 per strip (10 tablets)",
+      "duration": "3-5 days",
+      "care": "Avoid spicy food, eat small meals, and drink warm water."
+    },
+    "diarrhea": {
+      "medicine": "ORS + Loperamide (2mg)",
+      "dosage": "Drink ORS after each loose stool, take 1 tablet if needed",
+      "cost": "₹40 per ORS packet, ₹30 per strip (10 tablets)",
+      "duration": "1-2 days",
+      "care": "Stay hydrated, eat bland food, and avoid dairy."
+    },
+    "vomiting": {
+      "medicine": "Ondansetron (4mg)",
+      "dosage": "Take 1 tablet every 8 hours",
+      "cost": "₹50 per strip (10 tablets)",
+      "duration": "1-2 days",
+      "care": "Drink lemon water, eat small meals, and avoid greasy food."
+    },
+    "gas acidity": {
+      "medicine": "Ranitidine (150mg)",
+      "dosage": "Take 1 tablet before meals",
+      "cost": "₹30 per strip (10 tablets)",
+      "duration": "3-4 days",
+      "care": "Avoid spicy food, drink cold milk, and eat smaller meals."
+    },
+    "constipation": {
+      "medicine": "Isabgol Husk",
+      "dosage": "Take 1 spoon with warm water at night",
+      "cost": "₹80 per packet",
+      "duration": "3-7 days",
+      "care": "Increase fiber intake, drink more water, and exercise regularly."
+    },
+    "back pain": {
+      "medicine": "Diclofenac gel + Ibuprofen (400mg)",
+      "dosage": "Apply gel twice daily, take a tablet if needed",
+      "cost": "₹60 per gel tube, ₹40 per strip (10 tablets)",
+      "duration": "3-5 days",
+      "care": "Avoid heavy lifting, apply heat therapy, and do light stretching."
+    },
+    "joint pain": {
+      "medicine": "Calcium + Vitamin D supplements",
+      "dosage": "Take 1 tablet daily",
+      "cost": "₹150 per bottle (30 tablets)",
+      "duration": "1 month",
+      "care": "Do mild exercises, eat calcium-rich foods, and avoid cold weather."
+    },
+    "throat infection": {
+      "medicine": "Azithromycin (500mg)",
+      "dosage": "Take 1 tablet daily",
+      "cost": "₹90 per strip (3 tablets)",
+      "duration": "3 days",
+      "care": "Gargle with warm salt water, drink herbal tea, and rest."
+    },
+    "eye infection": {
+      "medicine": "Ciprofloxacin eye drops",
+      "dosage": "Use 2 drops in each eye 4 times daily",
+      "cost": "₹70 per bottle",
+      "duration": "5-7 days",
+      "care": "Avoid touching eyes, use a clean towel, and wear sunglasses."
+    },
+    "toothache": {
+      "medicine": "Clove oil + Ibuprofen (400mg)",
+      "dosage": "Apply clove oil to the tooth, take a tablet if needed",
+      "cost": "₹50 for oil, ₹40 per strip (10 tablets)",
+      "duration": "3-5 days",
+      "care": "Avoid very hot/cold food, brush gently, and rinse with salt water."
+    },
+    "skin allergy": {
+      "medicine": "Cetirizine (10mg) + Calamine lotion",
+      "dosage": "Take 1 tablet at night, apply lotion twice daily",
+      "cost": "₹30 per strip (10 tablets), ₹80 per lotion bottle",
+      "duration": "5-7 days",
+      "care": "Avoid scratching, wear loose cotton clothes, and stay hydrated."
+    },
+    "burns": {
+      "medicine": "Silver sulfadiazine cream",
+      "dosage": "Apply twice daily",
+      "cost": "₹100 per tube",
+      "duration": "5-10 days",
+      "care": "Keep the area clean, avoid sun exposure, and apply cool compress."
+    },
+    "high blood pressure": {
+      "medicine": "Amlodipine (5mg)",
+      "dosage": "Take 1 tablet daily",
+      "cost": "₹90 per strip (10 tablets)",
+      "duration": "Ongoing",
+      "care": "Reduce salt intake, exercise regularly, and manage stress."
+    },
+    "low blood pressure": {
+      "medicine": "ORS + Salt intake",
+      "dosage": "Drink ORS, increase salt in diet",
+      "cost": "₹40 per ORS packet",
+      "duration": "As needed",
+      "care": "Drink more water, avoid standing suddenly, and eat small meals."
+    },
+    "diabetes": {
+      "medicine": "Metformin (500mg)",
+      "dosage": "Take 1 tablet twice daily",
+      "cost": "₹100 per strip (10 tablets)",
+      "duration": "Ongoing",
+      "care": "Control sugar intake, exercise regularly, and monitor glucose levels."
+    },
+    "asthma": {
+      "medicine": "Salbutamol inhaler",
+      "dosage": "1-2 puffs when needed",
+      "cost": "₹250 per inhaler",
+      "duration": "Ongoing",
+      "care": "Avoid allergens, use a humidifier, and practice breathing exercises."
+    },
+    "anemia": {
+      "medicine": "Iron supplements",
+      "dosage": "Take 1 tablet daily",
+      "cost": "₹120 per bottle (30 tablets)",
+      "duration": "1-3 months",
+      "care": "Eat iron-rich foods, take vitamin C, and avoid tea/coffee after meals."
+    },
+    "depression": {
+      "medicine": "Sertraline (50mg)",
+      "dosage": "Take 1 tablet daily",
+      "cost": "₹200 per strip (10 tablets)",
+      "duration": "As prescribed",
+      "care": "Exercise regularly, talk to loved ones, and practice mindfulness."
+    }
+  }
+  

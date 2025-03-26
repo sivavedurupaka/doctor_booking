@@ -1,0 +1,202 @@
+{
+  "doctors": [
+    {
+      "id": "A1",
+      "name": "Dr. Rohit Verma",
+      "specialty": "Anesthesiologist",
+      "location": "Hyderabad, India",
+      "profileImageUrl": "assets/images/rohit_verma.jpg",
+      "category": "Anesthesiology",
+      "hospital": "Max Hospital",
+      "contact": "+91 9999888777",
+      "experience": "12 years"
+    },
+    {
+      "id": "A2",
+      "name": "Dr. Sneha Reddy",
+      "specialty": "Pain Management Specialist",
+      "location": "Bangalore, India",
+      "profileImageUrl": "assets/images/sneha_reddy.jpg",
+      "category": "Anesthesiology",
+      "hospital": "Apollo Hospital",
+      "contact": "+91 8888777666",
+      "experience": "10 years"
+    },
+    {
+      "id": "A3",
+      "name": "Dr. Arjun Patel",
+      "specialty": "Surgical Anesthesia Expert",
+      "location": "Mumbai, India",
+      "profileImageUrl": "assets/images/arjun_patel.jpg",
+      "category": "Anesthesiology",
+      "hospital": "Fortis Hospital",
+      "contact": "+91 7777666555",
+      "experience": "15 years"
+    },
+    {
+      "id": "A4",
+      "name": "Dr. Pooja Mehta",
+      "specialty": "Cardiac Anesthesiologist",
+      "location": "Delhi, India",
+      "profileImageUrl": "assets/images/pooja_mehta.jpg",
+      "category": "Anesthesiology",
+      "hospital": "AIIMS",
+      "contact": "+91 6666555444",
+      "experience": "9 years"
+    },
+    {
+      "id": "A5",
+      "name": "Dr. Vishal Kapoor",
+      "specialty": "Neuro Anesthesia Specialist",
+      "location": "Chennai, India",
+      "profileImageUrl": "assets/images/vishal_kapoor.jpg",
+      "category": "Anesthesiology",
+      "hospital": "Global Hospital",
+      "contact": "+91 5555444333",
+      "experience": "11 years"
+    },
+    {
+      "id": "A6",
+      "name": "Dr. Swati Sharma",
+      "specialty": "Pediatric Anesthesia Specialist",
+      "location": "Kolkata, India",
+      "profileImageUrl": "assets/images/swati_sharma.jpg",
+      "category": "Anesthesiology",
+      "hospital": "AMRI Hospital",
+      "contact": "+91 4444333222",
+      "experience": "8 years"
+    },
+    {
+      "id": "A7",
+      "name": "Dr. Kiran Rao",
+      "specialty": "Obstetric Anesthesiologist",
+      "location": "Pune, India",
+      "profileImageUrl": "assets/images/kiran_rao.jpg",
+      "category": "Anesthesiology",
+      "hospital": "Deenanath Mangeshkar Hospital",
+      "contact": "+91 3333222111",
+      "experience": "14 years"
+    },
+    {
+      "id": "A8",
+      "name": "Dr. Neha Joshi",
+      "specialty": "Critical Care Anesthesiologist",
+      "location": "Ahmedabad, India",
+      "profileImageUrl": "assets/images/neha_joshi.jpg",
+      "category": "Anesthesiology",
+      "hospital": "Zydus Hospital",
+      "contact": "+91 2222111000",
+      "experience": "10 years"
+    },
+    {
+      "id": "A9",
+      "name": "Dr. Rajeev Nair",
+      "specialty": "Orthopedic Anesthesia Expert",
+      "location": "Thiruvananthapuram, India",
+      "profileImageUrl": "assets/images/rajeev_nair.jpg",
+      "category": "Anesthesiology",
+      "hospital": "KIMS Hospital",
+      "contact": "+91 1111000999",
+      "experience": "13 years"
+    },
+    {
+      "id": "A10",
+      "name": "Dr. Meera Kulkarni",
+      "specialty": "General Anesthesiologist",
+      "location": "Jaipur, India",
+      "profileImageUrl": "assets/images/meera_kulkarni.jpg",
+      "category": "Anesthesiology",
+      "hospital": "Fortis Escorts Hospital",
+      "contact": "+91 9090909090",
+      "experience": "16 years"
+    },
+    {
+      "id": "A11",
+      "name": "Dr. Sanjay Gupta",
+      "specialty": "Cardiac Anesthesia Specialist",
+      "location": "Lucknow, India",
+      "profileImageUrl": "assets/images/sanjay_gupta.jpg",
+      "category": "Anesthesiology",
+      "hospital": "Sahara Hospital",
+      "contact": "+91 8080808080",
+      "experience": "9 years"
+    },
+    {
+      "id": "A12",
+      "name": "Dr. Deepika Malhotra",
+      "specialty": "Spinal Anesthesia Expert",
+      "location": "Chandigarh, India",
+      "profileImageUrl": "assets/images/deepika_malhotra.jpg",
+      "category": "Anesthesiology",
+      "hospital": "PGIMER",
+      "contact": "+91 7070707070",
+      "experience": "7 years"
+    },
+    {
+      "id": "A13",
+      "name": "Dr. Arvind Prasad",
+      "specialty": "Trauma Anesthesia Specialist",
+      "location": "Patna, India",
+      "profileImageUrl": "assets/images/arvind_prasad.jpg",
+      "category": "Anesthesiology",
+      "hospital": "Paras Hospital",
+      "contact": "+91 6060606060",
+      "experience": "12 years"
+    },
+    {
+      "id": "A14",
+      "name": "Dr. Kavita Das",
+      "specialty": "Regional Anesthesiologist",
+      "location": "Bhopal, India",
+      "profileImageUrl": "assets/images/kavita_das.jpg",
+      "category": "Anesthesiology",
+      "hospital": "Bansal Hospital",
+      "contact": "+91 5050505050",
+      "experience": "11 years"
+    },
+    {
+      "id": "A15",
+      "name": "Dr. Ashok Reddy",
+      "specialty": "ICU Anesthesiology Specialist",
+      "location": "Vishakhapatnam, India",
+      "profileImageUrl": "assets/images/ashok_reddy.jpg",
+      "category": "Anesthesiology",
+      "hospital": "Seven Hills Hospital",
+      "contact": "+91 4040404040",
+      "experience": "10 years"
+    },
+    {
+      "id": "A16",
+      "name": "Dr. Priya Menon",
+      "specialty": "Post-Operative Pain Specialist",
+      "location": "Coimbatore, India",
+      "profileImageUrl": "assets/images/priya_menon.jpg",
+      "category": "Anesthesiology",
+      "hospital": "Ganga Hospital",
+      "contact": "+91 3030303030",
+      "experience": "13 years"
+    },
+    {
+      "id": "A17",
+      "name": "Dr. Rahul Bhardwaj",
+      "specialty": "Epidural Anesthesia Specialist",
+      "location": "Nagpur, India",
+      "profileImageUrl": "assets/images/rahul_bhardwaj.jpg",
+      "category": "Anesthesiology",
+      "hospital": "Wockhardt Hospital",
+      "contact": "+91 2020202020",
+      "experience": "14 years"
+    },
+    {
+      "id": "A18",
+      "name": "Dr. Anjali Saxena",
+      "specialty": "Anesthesia & Palliative Care",
+      "location": "Mysore, India",
+      "profileImageUrl": "assets/images/anjali_saxena.jpg",
+      "category": "Anesthesiology",
+      "hospital": "JSS Hospital",
+      "contact": "+91 1010101010",
+      "experience": "12 years"
+    }
+  ]
+}
